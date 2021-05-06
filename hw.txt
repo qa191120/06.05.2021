@@ -1,0 +1,26 @@
+
+Homework:
+
+use our demo code!!!
+
+- Create a Serializable class Customer (POJO)
+members: 
+  private int id;
+  private String name;
+  private String address;
+functions:
+  setId, getId
+  setName, getName
+  setAddress, getAddress
+  toString
+  
+- create a CustomerController 
+with the following mapping + the functions
+@GetMapping("/customer") -- will return all customers
+@GetMapping("/customer/{id}") -- will return customer with the given id
+@PostMapping("/customer") -- will add a customer
+* etgar implement put/id + delete/id
+add a static list (like in the exmaple we did in class)
+
+- run the project
+- test the functions using Postman
