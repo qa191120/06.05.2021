@@ -23,4 +23,4 @@ with the following mapping + the functions
 add a static list (like in the exmaple we did in class)
 
 - run the project
-- test the functions using Postman
+- test the functions using Postman (for submission attach screen shots)
